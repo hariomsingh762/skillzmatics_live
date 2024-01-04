@@ -1,0 +1,151 @@
+.navbar-brand-box a span {
+    color: #000050;
+    font-size: 31px;
+    font-weight: 500;
+}
+.navbar-brand-box a span img {
+   margin-right: 15px;
+}
+.table.form-table-type>:not(caption)>*>* {
+    border: 1px solid #b1c7dc;
+    background: #FBFDFF;
+}
+.table.form-table-type>:not(:last-child)>:last-child>* {
+    border-bottom-color: #fbfdff;
+}
+.form-table-type ul {
+    list-style-type: circle;
+    padding-left: 12px;
+}
+.form-table-type ul li::marker {
+    font-size: 22px;
+}
+.form-table-type td.for-textarea {
+    width: 145px;
+}
+.form-table-type td.for-textarea textarea{
+    resize: none;
+    background: #fbfdff;
+    border: 1px solid #b1c7dc;
+    font-size: 12px;
+}
+.childCustomradiobtn{
+    margin-bottom: 1rem !important;
+    padding-left: 40px;
+    margin-top: 0.5rem;
+}
+.childCustomradiobtn label, .childCustomradiobtn-child label{
+    font-weight: 400;
+}
+.parentCustomradiobtn{
+     margin-bottom: 1rem !important;
+     margin-top: 0.5rem;
+}
+.childtablecustom{
+    padding-left: 41px;
+    width: 395px;
+}
+.custom-button {
+    padding-left: 41px;
+    margin-bottom: 20px;
+}
+.custom-button .btn-check:checked+.btn-secondary{
+    background: #fbfdff;
+    border-color: #b1c7dc;
+}
+.custom-button label{
+    background-color: #ffffff;
+    width: 165px;
+}
+body[data-sidebar=dark] .navbar-brand-box {
+    background: #FBFBFF;
+}
+body[data-sidebar=dark] .vertical-menu {
+    background: #000050;
+}
+body {
+    background-color: #ffffff;
+}
+.card {
+    margin-bottom: 1.5rem;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding-left: 4.5rem;
+}
+body[data-sidebar=dark] #sidebar-menu ul li a {
+    color: #B5B5B5;
+    border-bottom: 1px solid #40407A;
+    margin: 10px;
+}
+body[data-sidebar=dark] .vertical-menu {
+    background: #000050;
+}
+.vertical-menu {
+    width: 274px;
+}
+.navbar-brand-box {
+    width: 274px;
+}
+body[data-sidebar=dark] .mm-active>a {
+    color: #FFFFFF !important;
+    background-color: #040469;
+}
+.main-content {
+    margin-left: 274px;
+}
+#page-topbar {
+    background-color: #fbfbff;
+}
+.page-title-box .page-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000050;
+    margin-top: 30px;
+}
+.page-title-box p{
+    color: #000050;
+}
+.card-title {
+    font-size: 20px;
+    margin-bottom: 60px;
+    color: #000050;
+}
+.card-body {
+    padding: 0;
+}
+.topbar-white-header {
+    box-shadow: 0 0 13px 0 rgb(236 236 241);
+}
+.page-content {
+    padding: 70px 0px;
+}
+.page-title-box {
+    padding-left: 4.5rem;
+}
+li.breadcrumb-item {
+    margin-top: 11px;
+}
+.custom-smalltable{
+    border: 1px solid #B1C7DC;
+    background: #FBFDFF;
+    color: #868686;
+    width: 330px;
+    padding: 12px;
+    margin-left: 41px;
+}
+.submitpera{
+    color: #000050;
+    font-weight: 600;
+}
+.parentCustomradiobtn label {
+    font-weight: 600;
+}
+.btn-primary-custom {
+    color: #fff;
+    background-color: #000050;
+    border-color: #000050;
+}
+.btn-outline-custom-dark {
+    color: #000050;
+    border-color: #000050;
+}
